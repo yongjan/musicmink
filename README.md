@@ -1,4 +1,4 @@
 musicmink
 =========
 
-Music Player for Windows Phone
+Windows Phone 音乐播放器
